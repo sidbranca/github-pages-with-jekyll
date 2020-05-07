@@ -1,3 +1,3 @@
-# Welcome to my blog
+# quarantine hobbies
 
-I'm glad you are here. I plan to talk about ...
+it is May of 2020, and I am learning how to use GitHub Pages to showcase some recent student work. 
